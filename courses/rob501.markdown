@@ -1,0 +1,53 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: course
+permalink: /courses/rob501
+
+---
+
+# ROB501: Fundamentals & Emerging Topics In Robotics
+
+
+Course description goes here!
+
+### Syllabus: [Download][syllabus]
+
+## Teaching Staff
+- Erol Şahin (Contact info)
+- Ali Emre Turgut (Contact info)
+- Mustafa Mert Ankaralı (Contact info)
+
+## Teaching Assistant
+- Elif Sarıtaş (Contact info)
+
+## Course Logistics
+- Textbook: Something something
+
+## Schedule
+- Tuesday , 09:40 - 11:30
+- Wednesday, 15:40 - 17:30
+- Friday , 13:40 - 15:30
+
+##  Tentative Weekly Schedule (Spring 2022)
+
+|Week| Date   | Content | Meeting | Lecturer | Assignment | Reading |
+:--- |:-------|:--------|:--------|:-----------|:--------|
+1    | | | | | | |
+2    | | | | | | |
+3    | | | | | | |
+4    | | | | | | |
+5    | | | | | | |
+6    | | | | | | |
+7    | | | | | | |
+8    | | | | | | |
+9    | | | | | | |
+10   | | | | | | |
+11   | | | | | | |
+12   | | | | | | |
+13   | | | | | | |
+14   | | | | | | |
+
+
+[syllabus]: {{site.url}}/assets/docs/syllabus.pdf
