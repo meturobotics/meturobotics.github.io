@@ -8,7 +8,7 @@ permalink: /courses/rob501
 ---
 
 # ROB501
-Fundamentals and Emerging Topics In Robotics
+## Fundamentals and Emerging Topics In Robotics
 
 
 Course description goes here!
@@ -51,4 +51,4 @@ Course description goes here!
 14   | | | | | | |
 
 
-[syllabus]: {{site.url}}/assets/docs/syllabus.pdf
+[syllabus]: ../assets/docs/syllabus.pdf
