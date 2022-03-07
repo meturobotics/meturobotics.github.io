@@ -7,7 +7,8 @@ permalink: /courses/rob501
 
 ---
 
-# ROB501: Fundamentals & Emerging Topics In Robotics
+# ROB501
+Fundamentals and Emerging Topics In Robotics
 
 
 Course description goes here!
@@ -23,7 +24,7 @@ Course description goes here!
 - Elif Sarıtaş (Contact info)
 
 ## Course Logistics
-- Textbook: Something something
+- Textbook: TBD
 
 ## Schedule
 - Tuesday , 09:40 - 11:30
