@@ -11,25 +11,26 @@ permalink: /courses/rob501
 ## Fundamentals and Emerging Topics In Robotics
 
 
-Course description goes here!
+The aim of this course is to establish a common understanding on the fundamental topics of robotics for the students from different backgrounds. The topics covered are the most prominent subjects in the framework of robotics, and those are control theory, Bayesian state estimation, kinetics and dynamics, motion planning,  and machine learning. Though all of these subjects are studied in great depth in various courses which are offered as the technical electives in the program, for the students who are unfamiliar with these topics, there is no introductory course at the graduate level. Therefore, the proposed course aims to establish a common background in the core subjects of robotics.
 
 ### Syllabus: [Download][syllabus]
 
 ## Teaching Staff
-- Erol Şahin (Contact info)
-- Ali Emre Turgut (Contact info)
-- Mustafa Mert Ankaralı (Contact info)
-
-## Teaching Assistant
-- Elif Sarıtaş (Contact info)
+- Buğra Koku
+- Mustafa Mert Ankaralı
+- Elif Sarıtaş
+- Ali Emre Turgut
+- Erol Şahin 
+- Sinan Kalkan
+ 
 
 ## Course Logistics
 - Textbook: TBD
 
 ## Schedule
-- Tuesday , 09:40 - 11:30
-- Wednesday, 15:40 - 17:30
-- Friday , 13:40 - 15:30
+- Tuesday , 09:40 - 11:30, EA209
+- Wednesday, 15:40 - 17:30, BMB1
+- Friday , 13:40 - 15:30, BMB3
 
 ##  Tentative Weekly Schedule (Spring 2022)
 
