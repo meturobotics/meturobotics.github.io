@@ -19,13 +19,25 @@ The aim of this course is to establish a common understanding on the fundamental
 - Buğra Koku
 - Mustafa Mert Ankaralı
 - Elif Sarıtaş
-- Ali Emre Turgut
+- Yiğit Yazıcıoğlu
 - Erol Şahin 
 - Sinan Kalkan
+
  
 
-## Course Logistics
-- Textbook: TBD
+## Textbooks: 
+- Modern Robotics: Mechanics, Planning, and Control, Frank C. Park and Kevin Lynch, Cambridge University Press, 2017.
+- Probabilistic Robotics, S. Thrun, et al, MIT Press, 2005.
+- Principles of Robot Motion, H. Choset, et al, MIT Press, 2005.
+- Discrete-time Control Systems, K. Ogata, Pearson, 1987.
+
+## Reference Materials: 
+- Estimation with Applications to Tracking and Navigation, Y. Bar-Shalom, et al., Wiley, 2001.
+- Bayesian Filtering and Smoothing, Simo Sarkka, Cambridge University Press, 2013.
+- EE402 Lecture Notes of Mustafa Mert Ankaralı, Accessed on: Nov. 22, 2021. [Online].
+	Available:https://github.com/mertankarali/Lecture-Notes/tree/master/METU-EE402.
+
+
 
 ## Schedule
 - Tuesday , 09:40 - 11:30, EA209
@@ -36,20 +48,20 @@ The aim of this course is to establish a common understanding on the fundamental
 
 |Week| Date   | Content | Meeting | Lecturer | Assignment | Reading |
 :--- |:-------|:--------|:--------|:-----------|:--------|
-1    | | | | | | |
-2    | | | | | | |
-3    | | | | | | |
-4    | | | | | | |
-5    | | | | | | |
-6    | | | | | | |
-7    | | | | | | |
-8    | | | | | | |
-9    | | | | | | |
-10   | | | | | | |
-11   | | | | | | |
-12   | | | | | | |
-13   | | | | | | |
-14   | | | | | | |
+1    | |Math and computing fundamentals: Linear Algebra-I | |Buğra Koku | | |
+2    | |Math and computing fundamentals: Linear Algebra-II | |Buğra Koku | | |
+3    | |Digital Control Systems: Fundamentals & Analysis Tools | |M. Mert Ankaralı | | |
+4    | |Design of Digital Controllers for Digital Control Systems | |M. Mert Ankaralı | | |
+5    | |Design of Digital Controllers & Observers for Digital Control Systems | |M. Mert Ankaralı | | |
+6    | |Estimation Theory: Probability Overview | |Elif Sarıtaş | | |
+7    | |Estimation Theory: Bayesian State Estimation | |Elif Sarıtaş | | |
+8    | |Estimation Theory: Kalman Filter and its variants | |Elif Sarıtaş | | |
+9    | |Rigid body motion: Kinematics | |Yiğit Yazıcıoğlu | | |
+10   | |Rigid body motion: Dynamics | |Yiğit Yazıcıoğlu | | |
+11   | |Motion Planning: Configuration Space | |Erol Şahin | | |
+12   | |Motion Planning: Road Map Methods & Graph Search Algorithms | |Erol Şahin | | |
+13   | |Motion Planning: Probabilistic Planning & Feedback Motion Planning | |Erol Şahin | | |
+14   | |Learning and Perception in Robotics | |Sinan Kalkan | | |
 
 
 [syllabus]: ../assets/docs/syllabus.pdf
