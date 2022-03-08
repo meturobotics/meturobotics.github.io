@@ -16,12 +16,12 @@ The aim of this course is to establish a common understanding on the fundamental
 ### Syllabus: [Download][syllabus]
 
 ## Teaching Staff
-- Buğra Koku
-- Mustafa Mert Ankaralı
+- [Buğra Koku](https://me.metu.edu.tr/kisi/bugra-koku)
+- [Mustafa Mert Ankaralı](https://eee.metu.edu.tr/personel/mustafa-mert-ankarali)
 - Elif Sarıtaş
-- Yiğit Yazıcıoğlu
-- Erol Şahin 
-- Sinan Kalkan
+- [Yiğit Yazıcıoğlu](https://me.metu.edu.tr/tr/kisi/yigit-yazicioglu)
+- [Erol Şahin](https://kovan.ceng.metu.edu.tr/~erol/)
+- [Sinan Kalkan](https://user.ceng.metu.edu.tr/~skalkan/)
 
  
 
