@@ -34,8 +34,7 @@ The aim of this course is to establish a common understanding on the fundamental
 ## Reference Materials: 
 - Estimation with Applications to Tracking and Navigation, Y. Bar-Shalom, et al., Wiley, 2001.
 - Bayesian Filtering and Smoothing, Simo Sarkka, Cambridge University Press, 2013.
-- EE402 Lecture Notes of Mustafa Mert Ankaralı, Accessed on: Nov. 22, 2021. [Online].
-(https://github.com/mertankarali/Lecture-Notes/tree/master/METU-EE402).
+- EE402 Lecture Notes of Mustafa Mert Ankaralı, Accessed on: Nov. 22, 2021. [Online][EE402].
 
 
 
@@ -65,3 +64,4 @@ The aim of this course is to establish a common understanding on the fundamental
 
 
 [syllabus]: ../assets/docs/syllabus.pdf
+[EE402]: https://github.com/mertankarali/Lecture-Notes/tree/master/METU-EE402
