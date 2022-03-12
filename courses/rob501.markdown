@@ -29,10 +29,13 @@ permalink: /courses/rob501
 - Principles of Robot Motion, H. Choset, et al, MIT Press, 2005.
 - Discrete-time Control Systems, K. Ogata, Pearson, 1987.
 
-## Reference Materials: 
+## Reference Materials:
+- EE302 Lecture Notes of Mustafa Mert Ankaralı, [Online](https://github.com/mertankarali/Lecture-Notes/tree/master/METU-EE302).
+- EE402 Lecture Notes of Mustafa Mert Ankaralı, [Online](https://github.com/mertankarali/Lecture-Notes/tree/master/METU-EE402). 
 - Estimation with Applications to Tracking and Navigation, Y. Bar-Shalom, et al., Wiley, 2001.
 - Bayesian Filtering and Smoothing, Simo Sarkka, Cambridge University Press, 2013.
-- EE402 Lecture Notes of Mustafa Mert Ankaralı, [Online](https://github.com/mertankarali/Lecture-Notes/tree/master/METU-EE402).
+
+
 
 
 
