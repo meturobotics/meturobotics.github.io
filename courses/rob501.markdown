@@ -9,7 +9,7 @@ permalink: /courses/rob501
 ### ROB501
 ## Fundamentals & Emerging Topics In Robotics
 
-<div style="text-align: justify"> This course aims to establish a common understanding of the fundamental topics of robotics for students from different backgrounds. The topics covered are the most prominent subjects in the framework of robotics: control theory, Bayesian state estimation, kinetics and dynamics, motion planning,  and machine learning. Though all of these subjects are studied in great depth in various courses offered as the technical electives in the program, there is no introductory course at the graduate level for the students who are unfamiliar with these topics. Therefore, the proposed course aims to establish a common background in the core subjects of robotics.</div>
+<div style="text-align: justify"> This course aims to establish a common understanding of the fundamental topics of robotics for students from different backgrounds. The topics covered are the most prominent subjects in the framework of robotics: control theory, Bayesian state estimation, kinetics and dynamics, motion planning,  and machine learning. Though all of these subjects are studied in great depth in various courses offered as the technical electives in the program, there is no introductory course at the graduate level for the students who are unfamiliar with these topics. </div>
 
 
 
