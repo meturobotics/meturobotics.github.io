@@ -40,7 +40,7 @@ permalink: /courses/rob501
 
 
 ## Schedule
-- Tuesday , 09:40 - 11:30, EA209
+- Tuesday , 09:40 - 11:30, EA207
 - Wednesday, 15:40 - 17:30, BMB1
 - Friday , 13:40 - 15:30, BMB3
 
